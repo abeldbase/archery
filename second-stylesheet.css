@@ -57,7 +57,7 @@
     font-weight: bold;
     text-transform: uppercase;
     font-size: 17px;
-    color: #ecb722;
+    color: #0a0a0a;
     text-align: center;
 }
 .button{
@@ -131,6 +131,7 @@ video{
 
 #content1{
     background: #444444;
+    color: aliceblue;
     grid-area: content1;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
@@ -138,6 +139,7 @@ video{
 }
 #content2{
     background: #444444;
+    color: aliceblue;
     grid-area: content2;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
@@ -145,6 +147,7 @@ video{
 }
 #content3{
     background: #444444;
+    color: aliceblue;
     grid-area: content3;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
@@ -152,6 +155,7 @@ video{
 }
 #content4{
     background: #444444;
+    color: aliceblue;
     grid-area: content4;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
@@ -159,6 +163,7 @@ video{
 }
 #content5{
     background: #444444;
+    color: aliceblue;
     grid-area: content5;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
@@ -166,6 +171,7 @@ video{
 }
 #content6{
     background: #444444;
+    color: aliceblue;
     grid-area: content6;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
