@@ -181,7 +181,7 @@ video{
 .maincontent{
     font-family:'Lucida Sans Regular', sans-serif;
     font-size: 17px;
-    color: wheat;
+    color: rgb(255, 255, 255);
     font-weight: lighter;
     text-transform: none;
     text-align:justify;
