@@ -56,7 +56,7 @@
     font-weight: bold;
     text-transform: uppercase;
     font-size: 17px;
-    color: #ecb722;
+    color: black;
     text-align: center;
 }
 
@@ -132,7 +132,7 @@ main{
 .maincontent{
     font-family:'Lucida Sans Regular', sans-serif;
     font-size: 17px;
-    color: #000;
+    color: rgb(247, 239, 239);
     font-weight: lighter;
     text-transform: none;
     text-align:justify;
@@ -140,8 +140,8 @@ main{
 }
 #address{
     font-family:'Lucida Sans Regular', sans-serif;
-    font-size: 14px;
-    color: white;
+    font-size: 17px;
+    color: black;
     font-weight: 700;
     text-transform: none;
 }
@@ -151,6 +151,7 @@ main{
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
     text-align: center;
+    color: #000;
     justify-content: center;
     font-size: 19px;
     font-weight: bold;
@@ -161,7 +162,9 @@ aside{
     margin-top: 110px;
 
 }
-
+.aside1{
+    color: #000;
+}
 .whatsapp{
     color:#07df03;
 
@@ -169,6 +172,7 @@ aside{
 
 #content1{
     background: #444444;
+    color:white ;
     grid-area: content1;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
@@ -176,6 +180,7 @@ aside{
 }
 #content2{
     background: #444444;
+    color:white ;
     grid-area: content2;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
@@ -183,6 +188,7 @@ aside{
 }
 #content3{
     background: #444444;
+    color:white ;
     grid-area: content3;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
